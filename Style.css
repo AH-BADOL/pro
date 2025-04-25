@@ -1,0 +1,36 @@
+body{
+
+  background-color: #9ab5ff;
+}
+img{
+
+  height: 100px;
+  width: 300px;
+}
+table{
+  font-family:'Courier New', Courier, monospace ;
+  border-collapse: collapse;
+}
+td,th{
+
+
+  border:1px solid black;
+}
+ul{
+
+  list-style-type:circle;
+  list-style-type:square;
+  list style type:none;
+}
+title{
+  background: RED;
+  color:aliceblue;
+  padding: 10px;
+}
+h1,p,span,strong{
+
+  border: 1px solid red;
+  background: RED;
+  color:aliceblue;
+  padding: 10px;
+}
